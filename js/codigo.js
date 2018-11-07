@@ -6,11 +6,11 @@ var numero5=[1,2,3,4,5,6];
 var numero6=[1,2,3,4,5,6];
 
 var color1=["blue","yellow","pink","red","green","white"];
-var color2=["blue","yellow","pink","red","green","white"];
-var color3=["blue","yellow","pink","red","green","white"];
-var color4=["blue","yellow","pink","red","green","white"];
-var color5=["blue","yellow","pink","red","green","white"];
-var color6=["blue","yellow","pink","red","green","white"];
+var color2=["white","blue","yellow","pink","red","green"];
+var color3=["green","white","blue","yellow","pink","red"];
+var color4=["red","green","white","blue","yellow","pink"];
+var color5=["pink","red","green","white","blue","yellow"];
+var color6=["yellow","pink","red","green","white","blue"];
 
 var long1=numero1.length;
 var long2=numero2.length;
